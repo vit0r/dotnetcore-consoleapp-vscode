@@ -1,4 +1,4 @@
-# DTNET 7
+# DOTNET 7
 
 1. [doc](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-sln)
 
